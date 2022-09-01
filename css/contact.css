@@ -1,0 +1,37 @@
+/* Form */
+
+.form-wrap {
+  margin-bottom: 40px;
+}
+
+.form-wrap .form-group {
+  margin-bottom: 20px;
+}
+
+.form-wrap .form-group label {
+  display: block;
+  color: #444;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.form-wrap .form-group textarea {
+  height: 200px;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #f7c08a;
+  outline: none;
+}
+
+.address {
+  background-color: #333;
+  color: #fff;
+}
