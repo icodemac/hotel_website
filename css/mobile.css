@@ -1,0 +1,66 @@
+/* Media queries */
+
+.navbar .logo h1 {
+  float: none;
+  text-align: center;
+}
+
+.navbar .nav,
+.navbar ul li {
+  float: none;
+}
+
+.navbar ul li a {
+  padding: 5px;
+  border-bottom: #444 dotted 1px;
+}
+
+/* Showcase */
+
+.showcase {
+  height: 100%;
+}
+
+/* Info */
+
+.info {
+  height: 550px;
+}
+
+.info .info-img_div {
+  display: none;
+}
+
+.info .info-text {
+  float: none;
+  width: 100%;
+}
+
+/* Boxes */
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* About */
+
+.about .about-info,
+.about .about-img {
+  float: none;
+  width: 100%;
+}
+
+.about .about-info {
+  padding-top: 20px;
+}
+
+.about .about-img {
+  margin-bottom: 20px;
+}
+
+/* Contact */
+
+.address .box {
+  border-bottom: 4px dotted #444;
+}
